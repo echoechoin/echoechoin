@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @echoechoin
-- 👀 I’m interested in ethernet packert rediect.
+- 👀 I’m interested in network message redirection.
 - 🌱 I’m currently learning tcp/ip protocol stack
 
 ```js
