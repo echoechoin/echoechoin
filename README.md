@@ -2,6 +2,7 @@
 - 👀 I’m interested in network message redirection.
 - 🌱 I’m currently learning tcp/ip protocol stack and operating system.
 
+# 🌟✨🥨 `Elden ring` playing 🌟🌟✨
 
 
 <!---
