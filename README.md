@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @echoechoin
 - 👀 I’m interested in network message redirection.
 - 🌱 I’m currently learning tcp/ip protocol stack and operating system.
-- ✨ **Running**: [http://linxin.info](http://linxin.info), thanks for [running_page](https://github.com/yihong0618/running_page).
+- ✨ **Running**: [[https://workouts.linxin.info](http://linxin.info)](https://workouts.linxin.info), thanks for [running_page](https://github.com/yihong0618/running_page).
 
 <!---
 echoechoin/echoechoin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
